@@ -4,6 +4,7 @@ build/
 
 # Local configuration
 local.properties
+google-services.json
 
 # Android Studio
 .idea/
