@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="kawaii_sky_blue">#9ABDDC</color>
+    <color name="diamond_blue">#AECCE4</color>
+    <color name="beau_blue">#BDD5E7</color>
+    <color name="subtle_blue">#D1E5F4</color>
+    <color name="arctic_ice">#F5FBFF</color>
+    <color name="pumice">#C3CCC0</color>
+    <color name="champagne_silver">#DDD0C6</color>
+    <color name="memphis">#E5DFD9</color>
+    <color name="delicate_orange">#E5D7BE</color>
+    <color name="argent">#BFBFBF</color>
+    <color name="vibrant_silver">#CECECD</color>
+    <color name="alto">#DBDCDA</color>
+    <color name="pale_silver">#EBEBEB</color>
+    <color name="metallic_lilac">#9A9AAB</color>
+    <color name="just_right">#ECCDB6</color>
+    <color name="chocolate_cream">#C7826D</color>
+    <color name="winter_gray">#656565</color>
+    <color name="comforting_mint_green">#BCD4CB</color>
+    <color name="cannon_pink">#894168</color>
+    <color name="gold_earth">#A78C58</color>
+    <color name="catalina_blue">#243C68</color>
+    <color name="medium_gray">#707070</color>
+    <color name="strong_grey">#383838</color>
+</resources>

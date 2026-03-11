@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MedApp</string>
+    <string name="get_started">Get Started</string>
+    <string name="sub_intro">Book. Manage. Care.
+MediApp connects you with healthcare providers and lets you schedule appointments anytime, anywhere.</string>
+    <string name="greetings">Hello, User.</string>
+    <string name="how_are_you">How are you?</string>
+<!--    <string name="name">Name</string>-->
+<!--    <string name="greeting">Get Started</string>-->
+<!--    -->
+</resources>
